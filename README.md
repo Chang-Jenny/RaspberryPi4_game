@@ -1,2 +1,2 @@
-# Raspberry_Pi4_game
+# Raspberry_Pi_4_game
 This is our Raspberry Pi project! 
